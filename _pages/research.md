@@ -4,7 +4,7 @@ permalink: /research/
 ---
 
 ## interests
-- Representation learning and self-supervised learning
-- Robustness, uncertainty estimation, and out-of-distribution generalization
-- Multimodal learning for perception and reasoning
-- Efficient training and deployment of ML systems
+- Reasoning and decision-making in large language models
+- Reinforcement learning and post-training optimization for LLMs
+- Social Intelligence with reasoning
+- Robustness, generalization, and distribution shift in reasoning systems
