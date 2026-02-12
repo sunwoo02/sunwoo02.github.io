@@ -1,13 +1,15 @@
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Research
-  url: /research/
+# - title: About
+#   url: /about/
+- title: Education
+  url: /education/
+# - title: Research
+#   url: /research/
 - title: Publications
   url: /publications/
-- title: Projects
-  url: /projects/
+# - title: Projects
+#   url: /projects/
 - title: CV
   url: /cv/
 # - title: Contact
