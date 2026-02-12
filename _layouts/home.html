@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<section class="home-hero">
+  <div class="profile-card">
+    <div class="profile-image">
+      <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="{{ page.name | default: site.title }}">
+    </div>
+    <div class="profile-text">
+      <h1>{{ page.name | default: site.title }}</h1>
+      <p class="affiliation">{{ page.affiliation }}</p>
+      <p class="location">{{ page.location }}</p>
+      <p class="intro">{{ page.intro }}</p>
+    </div>
+  </div>
+</section>
+
+<section class="home-body">
+  {{ content }}
+</section>

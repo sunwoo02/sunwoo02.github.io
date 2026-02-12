@@ -1,0 +1,26 @@
+# Site settings
+
+title: "Sun Woo Bae"
+description: "Undergraduate Researcher (AI / Machine Learning) at KAIST"
+url: "https://sunwoo02.github.io"
+baseurl: ""
+timezone: "Asia/Seoul"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
