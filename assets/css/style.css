@@ -226,3 +226,21 @@ a:hover {
     width: 160px;
   }
 }
+.profile-links {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.9rem;
+  align-items: center;
+}
+
+.profile-links a {
+  color: #111;
+  display: inline-flex;
+  width: 28px;
+  height: 28px;
+}
+
+.profile-links svg {
+  width: 100%;
+  height: 100%;
+}
