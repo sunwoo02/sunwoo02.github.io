@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-name: Sun Woo Bae
+name: Sunwoo Bae
 affiliation: Undergraduate Researcher (AI / Machine Learning), Korea Advanced Institute of Science and Technology (KAIST)
 location: Seoul, Korea
 intro: >-
