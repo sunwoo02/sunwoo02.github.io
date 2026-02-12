@@ -232,19 +232,17 @@ a:hover {
   gap: 0.5rem;
   margin-top: 0.6rem;
   align-items: center;
-  justify-content: flex-start;
 }
 
 .profile-links a {
-  width: 20px;
-  height: 20px;
   display: inline-flex;
+  line-height: 0;
   color: #111;
 }
 
-.profile-links svg {
-  width: 100%;
-  height: 100%;
+.profile-links .icon {
+  width: 20px;
+  height: 20px;
   display: block;
 }
 
