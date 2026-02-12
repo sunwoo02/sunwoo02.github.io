@@ -3,8 +3,9 @@ title: About
 permalink: /about/
 ---
 
-I am an undergraduate researcher at the Korea Advanced Institute of Science and Technology (KAIST), focusing on artificial intelligence and machine learning. My academic goal is to develop learning algorithms that are robust, data-efficient, and reliable in real-world settings.
+I am an undergraduate researcher at KAIST studying the foundations of reasoning in large language models. My work examines how reinforcement learning and post-training optimization shape reasoning behavior, and when such methods genuinely improve capability versus merely amplifying spurious patterns.
 
-My work interests sit at the intersection of representation learning, robust perception, and practical ML systems. I am particularly drawn to methods that improve generalization under distribution shift, integrate uncertainty into decision-making, and reduce the compute or data footprint of modern models.
+I am particularly interested in robustness under distribution shift, long-horizon reasoning, and socially grounded inference in multi-agent settings. My goal is to develop principled training and evaluation frameworks that move beyond surface-level performance gains toward reliable and generalizable intelligence.
 
-I aim to contribute to research that blends strong theoretical foundations with measurable impact on deployed systems. I am based in Seoul, Korea.
+I am based in Seoul, Korea.
+
