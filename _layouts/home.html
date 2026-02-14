@@ -40,7 +40,7 @@ layout: default
       <h1>{{ page.full_name | default: site.title }}</h1>
       <p class="affiliation">{{ page.affiliation }}</p>
       <p class="location">{{ page.location }}</p>
-      <p class="intro">{{ page.intro }}</p>
+      <div class="intro">{{ page.intro | markdownify }}</div>
     </div>
   </div>
 </section>
