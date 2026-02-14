@@ -44,6 +44,6 @@ and post-training methods for robust, generalizable, and socially grounded syste
 <ol class="pub-list">
   <li>
     <strong>Coming soon</strong><br>
-    Add your papers here in reverse chronological order.
+    Paper 1
   </li>
 </ol>
