@@ -32,11 +32,11 @@ and post-training methods for robust, generalizable, and socially grounded syste
 
   <div class="edu-item">
     <div>
-      <p class="edu-school"><strong>International Baccalaureate Diploma Programme (Japan)</strong></p>
-      <p class="edu-degree">IB Score: 44/45</p>
-      <p class="edu-note">Valedictorian</p>
+      <p class="edu-school"><strong>St.Mary's International School (Japan)</strong></p>
+      <p class="edu-degree">International Baccalaureate: 44/45</p>
+      <p class="edu-degree">Valedictorian</p>
     </div>
-    <p class="edu-date">Completed</p>
+    <p class="edu-date">2018.9 - 2021.5 </p>
   </div>
 </div>
 
