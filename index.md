@@ -18,8 +18,6 @@ and post-training methods for robust, generalizable, and socially grounded syste
 
 ## Education
 
-<h2 class="section-heading">Education</h2>
-
 <div class="edu-list">
   <div class="edu-item">
     <div>
