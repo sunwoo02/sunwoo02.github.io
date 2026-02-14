@@ -32,7 +32,7 @@ intro: >-
     <div>
       <p class="edu-school"><strong>St.Mary's International School (Japan)</strong></p>
       <p class="edu-degree">International Baccalaureate: 44/45</p>
-      <p class="edu-degree">Valedictorian</p>
+      <p class="edu-degree"><a href="[https://hyunw.kim/](https://www.youtube.com/watch?v=inz3pqOW8Kg&t=6213s)" target="_blank" rel="noopener">Valedictorian</a></p>
     </div>
     <p class="edu-date">2018.9 - 2021.5 </p>
   </div>
