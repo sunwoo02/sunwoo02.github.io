@@ -71,7 +71,7 @@ a:hover {
 
 .site-nav {
   display: block;
-  margin-left: 0.75rem;
+  margin-left: auto;
 }
 
 .nav-list {
@@ -106,8 +106,12 @@ a:hover {
   border-radius: 4px;
 }
 
+.theme-toggle-item {
+  display: inline-flex;
+  align-items: center;
+}
+
 .theme-toggle {
-  margin-left: auto;
   border: 1px solid var(--border);
   background: transparent;
   color: var(--text);
@@ -333,7 +337,6 @@ html[data-theme="dark"] .theme-toggle .icon-moon {
   margin: 0 0 0.35rem;
 }
 
-/* 부드러운 전환은 JS에서 html.theme-transition 붙였을 때만 동작 */
 html.theme-transition,
 html.theme-transition *,
 html.theme-transition *::before,
@@ -353,10 +356,6 @@ html.theme-transition *::after {
 
   .nav-toggle-label {
     display: inline-flex;
-  }
-
-  .theme-toggle {
-    margin-left: auto;
   }
 
   .site-nav {
