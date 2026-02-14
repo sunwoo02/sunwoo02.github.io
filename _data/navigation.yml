@@ -8,9 +8,9 @@
 #   url: /research/
 - title: Publications
   url: /publications/
-# - title: Projects
-#   url: /projects/
-# - title: CV
-#   url: /cv/
-# - title: Contact
-#   url: /contact/
+- title: Projects
+  url: /projects/
+- title: CV
+  url: /cv/
+- title: Contact
+  url: /contact/
