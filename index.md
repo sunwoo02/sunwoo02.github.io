@@ -23,9 +23,9 @@ and post-training methods for robust, generalizable, and socially grounded syste
     <div>
       <p class="edu-school"><strong>Korea Advanced Institute of Science and Technology (KAIST)</strong></p>
       <p class="edu-degree">B.S. in Computer Science</p>
-      <p class="edu-note">Undergraduate Researcher, <a href="https://coco-kaist.github.io/" target="_blank" rel="noopener">COCO Lab</a> (Advised by <a href="https://hyunw.kim/" target="_blank" rel="noopener">Hyunwoo Kim</a>)</p>
+      <p class="edu-note">Undergraduate Research Intern, <a href="https://coco-kaist.github.io/" target="_blank" rel="noopener">COCO Lab</a> (Advised by <a href="https://hyunw.kim/" target="_blank" rel="noopener">Hyunwoo Kim</a>)</p>
     </div>
-    <p class="edu-date">2024 - Present</p>
+    <p class="edu-date">2021.9 - Present</p>
   </div>
 
   <div class="edu-item">
