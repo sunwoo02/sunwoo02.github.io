@@ -245,4 +245,46 @@ a:hover {
   height: 20px;
   display: block;
 }
+.edu-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.edu-entry:last-child {
+  border-bottom: 0;
+}
+
+.edu-school {
+  margin: 0 0 0.2rem;
+}
+
+.edu-degree {
+  margin: 0 0 0.4rem;
+}
+
+.edu-entry ul {
+  margin: 0.3rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.edu-date {
+  margin: 0;
+  white-space: nowrap;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+@media (max-width: 760px) {
+  .edu-entry {
+    display: block;
+  }
+
+  .edu-date {
+    margin-top: 0.4rem;
+  }
+}
 
