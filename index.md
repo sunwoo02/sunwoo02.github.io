@@ -18,28 +18,28 @@ and post-training methods for robust, generalizable, and socially grounded syste
 
 ## Education
 
-<div class="edu-entry">
-  <div>
-    <p class="edu-school"><strong>Korea Advanced Institute of Science and Technology (KAIST)</strong></p>
-    <p class="edu-degree">B.S. in Computer Science</p>
-    <ul>
-      <li>Undergraduate Researcher, COCO Lab (Advised by Prof. Hyunwoo Kim)</li>
-      <li>Focus: Large Language Models, Reinforcement Learning, Reasoning</li>
-    </ul>
+<h2 class="section-heading">Education</h2>
+
+<div class="edu-list">
+  <div class="edu-item">
+    <div>
+      <p class="edu-school"><strong>Korea Advanced Institute of Science and Technology (KAIST)</strong></p>
+      <p class="edu-degree">B.S. in Computer Science</p>
+      <p class="edu-note">Undergraduate Researcher, COCO Lab (Advised by <a href="https://hyunw.kim/" target="_blank" rel="noopener">Hyunwoo Kim</a>)</p>
+    </div>
+    <p class="edu-date">2024 - Present</p>
   </div>
-  <p class="edu-date">2024 - Present</p>
+
+  <div class="edu-item">
+    <div>
+      <p class="edu-school"><strong>International Baccalaureate Diploma Programme (Japan)</strong></p>
+      <p class="edu-degree">IB Score: 44/45</p>
+      <p class="edu-note">Valedictorian</p>
+    </div>
+    <p class="edu-date">Completed</p>
+  </div>
 </div>
 
-<div class="edu-entry">
-  <div>
-    <p class="edu-school"><strong>International Baccalaureate Diploma Programme (Japan)</strong></p>
-    <p class="edu-degree">IB Score: 44/45</p>
-    <ul>
-      <li>Valedictorian</li>
-    </ul>
-  </div>
-  <p class="edu-date">Graduated</p>
-</div>
 
 ## Publications
 
