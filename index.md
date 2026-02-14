@@ -5,8 +5,7 @@ full_name: Sunwoo Bae
 affiliation: Undergraduate Researcher (AI / Machine Learning), Korea Advanced Institute of Science and Technology (KAIST)
 location: Seoul, Korea
 intro: >-
-  I am an undergraduate student at KAIST, currently interning at the <a href="https://coco-kaist.github.io/" target="_blank" rel="noopener">COCO Lab</a>  under the supervision of
-  <a href="https://hyunw.kim/" target="_blank" rel="noopener">Hyunwoo Kim</a>. My research focuses on understanding and improving reasoning in large language models. I investigate how mechanisms across the full training pipeline — data synthesis and curation, algorithmic design (including reinforcement learning), and architectural choices — shape reasoning behavior in both pre-training and post-training stages.I am particularly interested in structured reasoning and socially grounded intelligence, aiming to build and evaluate models that generalize robustly and reason reliably beyond superficial performance gains.
+  I am an undergraduate student at KAIST, currently interning at the <a href="https://coco-kaist.github.io/" target="_blank" rel="noopener">COCO Lab</a>  under the supervision of <a href="https://hyunw.kim/" target="_blank" rel="noopener">Hyunwoo Kim</a>. My research focuses on understanding and advancing reasoning capabilities in Large Language Models. I investigate how the entire training pipeline—encompassing strategic data synthesis, algorithmic design (specifically Reinforcement Learning), and architectural choices—shapes reasoning behaviors in both pre-training and post-training stages. I am particularly interested in structured reasoning and socially grounded intelligence, aiming to develop models that demonstrate robust generalization and reliable reasoning beyond superficial pattern matching.
 ---
 ## Publications
 
