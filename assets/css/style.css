@@ -4,6 +4,16 @@
   --accent: #0b4f8a;
   --border: #e6e6e6;
   --bg: #ffffff;
+  --bg-soft: #f2f2f2;
+}
+
+html[data-theme="dark"] {
+  --text: #e7edf7;
+  --muted: #a7b3c6;
+  --accent: #7fb0ff;
+  --border: #2a3342;
+  --bg: #0f141c;
+  --bg-soft: #1a2230;
 }
 
 * {
@@ -47,7 +57,7 @@ a:hover {
 .nav-container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 1.5rem;
   padding: 1.25rem 0;
 }
@@ -61,6 +71,7 @@ a:hover {
 
 .site-nav {
   display: block;
+  margin-left: 0.75rem;
 }
 
 .nav-list {
@@ -93,6 +104,53 @@ a:hover {
   border: 1px solid var(--border);
   padding: 0.35rem 0.6rem;
   border-radius: 4px;
+}
+
+.theme-toggle {
+  margin-left: auto;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  background: var(--bg-soft);
+  text-decoration: none;
+}
+
+.theme-toggle svg {
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+.theme-toggle .icon-sun {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.theme-toggle .icon-moon {
+  fill: currentColor;
+  stroke: none;
+  display: none;
+}
+
+html[data-theme="dark"] .theme-toggle .icon-sun {
+  display: none;
+}
+
+html[data-theme="dark"] .theme-toggle .icon-moon {
+  display: block;
 }
 
 .page-content {
@@ -144,7 +202,27 @@ a:hover {
   width: 200px;
   border-radius: 6px;
   border: 1px solid var(--border);
-  background: #f2f2f2;
+  background: var(--bg-soft);
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+  align-items: center;
+}
+
+.profile-links a {
+  display: inline-flex;
+  line-height: 0;
+  color: var(--text);
+}
+
+.profile-links .icon {
+  width: 20px;
+  height: 20px;
+  display: block;
 }
 
 .affiliation {
@@ -160,6 +238,14 @@ a:hover {
 .intro {
   font-size: 1.05rem;
   margin: 0;
+}
+
+.intro p {
+  margin: 0 0 1rem;
+}
+
+.intro p:last-child {
+  margin-bottom: 0;
 }
 
 .pub-list,
@@ -183,68 +269,6 @@ a:hover {
   margin-bottom: 0.5rem;
 }
 
-.site-footer {
-  border-top: 1px solid var(--border);
-  padding: 2rem 0;
-  font-size: 0.9rem;
-  color: var(--muted);
-}
-
-.site-footer p {
-  margin: 0 0 0.35rem;
-}
-
-@media (max-width: 760px) {
-  .nav-container {
-    flex-wrap: wrap;
-  }
-
-  .nav-toggle-label {
-    display: inline-flex;
-  }
-
-  .site-nav {
-    width: 100%;
-    display: none;
-  }
-
-  .nav-list {
-    flex-direction: column;
-    align-items: flex-start;
-    padding-top: 0.75rem;
-  }
-
-  .nav-toggle:checked ~ .site-nav {
-    display: block;
-  }
-
-  .profile-card {
-    grid-template-columns: 1fr;
-  }
-
-  .profile-image img {
-    width: 160px;
-  }
-}
-.profile-links {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 0.5rem;
-  margin-top: 0.6rem;
-  align-items: center;
-}
-
-.profile-links a {
-  display: inline-flex;
-  line-height: 0;
-  color: #111;
-}
-
-.profile-links .icon {
-  width: 20px;
-  height: 20px;
-  display: block;
-}
 .home-body h2.section-heading {
   margin-top: 2.2rem;
   margin-bottom: 1.2rem;
@@ -257,6 +281,7 @@ a:hover {
   color: var(--text);
   font-family: "Source Sans 3", "Helvetica Neue", sans-serif;
 }
+
 .edu-list {
   display: flex;
   flex-direction: column;
@@ -297,7 +322,67 @@ a:hover {
   color: var(--text);
 }
 
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 2rem 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.site-footer p {
+  margin: 0 0 0.35rem;
+}
+
+/* 부드러운 전환은 JS에서 html.theme-transition 붙였을 때만 동작 */
+html.theme-transition,
+html.theme-transition *,
+html.theme-transition *::before,
+html.theme-transition *::after {
+  transition:
+    background-color 0.35s ease,
+    color 0.35s ease,
+    border-color 0.35s ease,
+    fill 0.35s ease,
+    stroke 0.35s ease;
+}
+
 @media (max-width: 760px) {
+  .nav-container {
+    flex-wrap: wrap;
+  }
+
+  .nav-toggle-label {
+    display: inline-flex;
+  }
+
+  .theme-toggle {
+    margin-left: auto;
+  }
+
+  .site-nav {
+    width: 100%;
+    display: none;
+    margin-left: 0;
+  }
+
+  .nav-list {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 0.75rem;
+  }
+
+  .nav-toggle:checked ~ .site-nav {
+    display: block;
+  }
+
+  .profile-card {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-image img {
+    width: 160px;
+  }
+
   .edu-item {
     grid-template-columns: 1fr;
     row-gap: 0.3rem;
