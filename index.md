@@ -23,8 +23,6 @@ and post-training methods for robust, generalizable, and socially grounded syste
     <p class="edu-school"><strong>Korea Advanced Institute of Science and Technology (KAIST)</strong></p>
     <p class="edu-degree">B.S. in Computer Science</p>
     <ul>
-      <li>Expected graduation: 2028</li>
-      <li>GPA: ~3.8/4.3 (expected)</li>
       <li>Undergraduate Researcher, COCO Lab (Advised by Prof. Hyunwoo Kim)</li>
       <li>Focus: Large Language Models, Reinforcement Learning, Reasoning</li>
     </ul>
