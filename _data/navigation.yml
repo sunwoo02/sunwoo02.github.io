@@ -1,5 +1,7 @@
 - title: Home
   url: /
+- title: Projects
+  url: /projects/
 # - title: About
 #   url: /about/
 # - title: Education
@@ -8,8 +10,6 @@
 #   url: /research/
 # - title: Publications
 #   url: /publications/
-# - title: Projects
-#   url: /projects/
 # - title: CV
 #   url: /cv/
 # - title: Contact
