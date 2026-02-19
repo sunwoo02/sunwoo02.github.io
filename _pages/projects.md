@@ -3,7 +3,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Winter Reading presentation archive. 
+Reading presentation archive. 
 
 I am grateful to [Prof. Hyunwoo Kim](https://hyunw.kim/) for recommending papers and providing valuable feedback on my presentations.
 
@@ -12,32 +12,33 @@ I am grateful to [Prof. Hyunwoo Kim](https://hyunw.kim/) for recommending papers
   <li>
     <a href="{{ '/projects/illusion-and-orca/' | relative_url }}"><strong>Illusion of Thinking and ORCA</strong></a><br>
     <span class="location">Dec 29, 2025</span><br> 
-  Review and discussion on reasoning illusions and ORCA-style approaches.
-    
-  Paper 1: The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
-    
-  Paper 2: Orca: Progressive Learning from Complex Explanation Traces of GPT-4
+Review and discussion on reasoning illusions and ORCA-style approaches.
+<ul class="paper-sublist">
+  <li>Paper 1: The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity</li>
+  <li>Paper 2: Orca: Progressive Learning from Complex Explanation Traces of GPT-4</li>
+</ul>
  
   </li>
   <li>
     <a href="{{ '/projects/deepseek-r1-and-dapo/' | relative_url }}"><strong>DeepSeek R1 and DAPO</strong></a><br>
     <span class="location">Jan 12, 2026</span><br>
-    Technical review on DeepSeek-R1 and DAPO objectives.
-    
-  Paper 1: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
-    
-  Paper 2: DAPO: An Open-Source LLM Reinforcement Learning System at Scale
-    
-  Paper 3: GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+Technical review on DeepSeek-R1 and DAPO objectives.
+<ul class="paper-sublist">
+  <li>Paper 1: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</li>
+  <li>Paper 2: DAPO: An Open-Source LLM Reinforcement Learning System at Scale</li>
+  <li>Paper 3: GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization</li>
+</ul>
+
   </li>
   <li>
     <a href="{{ '/projects/olmo1-olmo3/' | relative_url }}"><strong>OLMo1 to OLMo3</strong></a><br>
     <span class="location">Jan 26, 2026</span><br>
     Architecture and training evolution review across OLMo generations.
-    
-  Paper 1: OLmo: Accelerating the Science of Language Models(
-    
-  Paper 2: Olmo3
+  <ul class="paper-sublist">
+  <li>Paper 1: OLmo: Accelerating the Science of Language Models</li>
+  <li>Paper 2: Olmo3</li>
+
+</ul>
   </li>
   <li>
     <a href="{{ '/projects/dive-into-rl/' | relative_url }}"><strong>Dive into RL</strong></a><br>
