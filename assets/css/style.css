@@ -392,3 +392,11 @@ html.theme-transition *::after {
     color: var(--muted);
   }
 }
+
+.slide-frame {
+  width: 100%;
+  min-height: 760px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg-soft);
+}
