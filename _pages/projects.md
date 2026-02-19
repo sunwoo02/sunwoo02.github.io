@@ -37,7 +37,6 @@ Technical review on DeepSeek-R1 and DAPO objectives.
   <ul class="paper-sublist">
   <li>Paper 1: OLmo: Accelerating the Science of Language Models</li>
   <li>Paper 2: Olmo3</li>
-
 </ul>
   </li>
   <li>
@@ -45,10 +44,10 @@ Technical review on DeepSeek-R1 and DAPO objectives.
     <span class="location">Feb 9, 2026</span><br>
     Reinforcement learning fundamentals and practical insights.
     
-  Paper 1: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models
-    
-  Paper 2: Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning
-    
-  Paper 3: JustRL: Scaling a 1.5B LLM with a Simple RL Recipe
+<ul class="paper-sublist">
+  <li>Paper 1: ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models</li>
+  <li>Paper 2: Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning</li>
+  <li>Paper 3: JustRL: Scaling a 1.5B LLM with a Simple RL Recipe</li>
+</ul>
   </li>
 </ol>
