@@ -3,7 +3,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Winter Reading Group presentation archive.
+Winter Reading presentation archive.
 
 ## paper review talks
 <ol class="pub-list">
