@@ -258,9 +258,22 @@ html[data-theme="dark"] .theme-toggle .icon-moon {
   margin: 0;
 }
 
-.pub-list li,
-.project-list li {
+.pub-list > li,
+.project-list > li {
   margin-bottom: 1.4rem;
+}
+
+.paper-sublist {
+  margin: 0.15rem 0 0.1rem;
+  padding-left: 1.2rem;
+}
+
+.paper-sublist li {
+  margin: 0.1rem 0;
+}
+
+.paper-sublist li:last-child {
+  margin-bottom: 0;
 }
 
 .contact-list {
