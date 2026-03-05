@@ -50,4 +50,17 @@ Technical review on DeepSeek-R1 and DAPO objectives.
   <li>Paper 3: JustRL: Scaling a 1.5B LLM with a Simple RL Recipe</li>
 </ul>
   </li>
+  
+<li>
+  <a href="{{ '/projects/spurious-rewards-and-tinylora/' | relative_url }}"><strong>Spurious Rewards and TinyLoRA</strong></a><br>
+  <span class="location">Feb 23, 2026</span><br>
+  Review on Spurious RLVR training signals and TinyLoRA which uses only 13 parameters.
+  <ul class="paper-sublist">
+    <li>Paper 1: Spurious Rewards - Rethinking Training Signals in RLVR</li>
+    <li>Paper 2: Learning toReasonin13Parameters</li>
+  </ul>
+</li>
+
+
+  
 </ol>
