@@ -13,4 +13,6 @@ This presentation covers reward-design issues in RLVR and efficient reasoning ap
 
 ## Slides
 - [Download PDF]({{ '/assets/pdf/reviews/spurious-rewards-and-tinylora.pdf' | relative_url }})
+
 <iframe class="slide-frame" src="{{ '/assets/pdf/reviews/spurious-rewards-and-tinylora.pdf' | relative_url }}" title="Spurious Rewards and TinyLoRA"></iframe>
+
