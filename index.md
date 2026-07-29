@@ -14,7 +14,7 @@ intro: |
 
 ## Recent News
 
-- **Jun 2026** — Organizing a satellite event [KAIST @ ICML](https://kaist-icml.github.io/)
+- **Jun 2026** — Student organizer for [KAIST @ ICML](https://kaist-icml.github.io/), a satellite event held alongside ICML 2026
 
 
 ## Publications
