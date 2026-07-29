@@ -61,6 +61,28 @@ Technical review on DeepSeek-R1 and DAPO objectives.
   </ul>
 </li>
 
+<li>
+  <a href="{{ '/projects/personas/' | relative_url }}"><strong>Personas</strong></a><br>
+  <span class="location">Mar 10, 2026</span><br>
+  Review on scaling synthetic data creation with persona-driven prompting and large-scale persona datasets.
+  <ul class="paper-sublist">
+    <li>Paper 1: Scaling Synthetic Data Creation with 1,000,000,000 Personas</li>
+    <li>Paper 2: Nemotron-Personas-USA</li>
+  </ul>
+</li>
+
+<li>
+  <a href="{{ '/projects/social-llm/' | relative_url }}"><strong>SocialLLM</strong></a><br>
+  <span class="location">Apr 9, 2026</span><br>
+  Survey of LLMs as social simulators, covering human behavior prediction, agentic digital twins, multi-agent world simulation, and privacy-preserving synthetic data.
+  <ul class="paper-sublist">
+    <li>Paper 1: Position: LLM Social Simulations Are a Promising Research Method</li>
+    <li>Paper 2: Finetuning LLMs for Human Behavior Prediction in Social Science</li>
+    <li>Case Study: CVS: The Flight Simulator for Management</li>
+    <li>Project: MiroFish</li>
+    <li>Paper 3: Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch</li>
+  </ul>
+</li>
 
   
 </ol>
