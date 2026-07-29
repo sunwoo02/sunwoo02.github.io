@@ -11,6 +11,12 @@ intro: |
   
   I am particularly interested in structured reasoning and socially grounded intelligence, aiming to develop models that demonstrate robust generalization and reliable reasoning beyond superficial pattern matching.
 ---
+
+## Recent News
+
+- **Jun 2026** — Organizing a satellite event [KAIST @ ICML](https://kaist-icml.github.io/)
+
+
 ## Publications
 
 <ol class="pub-list">
