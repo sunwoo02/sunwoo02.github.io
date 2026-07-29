@@ -9,8 +9,9 @@ This presentation summarizes DeepSeek-R1 and DAPO, focusing on optimization obje
 
 ## Papers
 
-1. The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
-2. Orca: Progressive Learning from Complex Explanation Traces of GPT-4
+1. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+2. DAPO: An Open-Source LLM Reinforcement Learning System at Scale
+3. GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 ## Slides
 - [Download PDF]({{ '/assets/pdf/reviews/deepseek-r1-dapo.pdf' | relative_url }})
