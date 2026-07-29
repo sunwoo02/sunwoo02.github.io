@@ -15,6 +15,7 @@ intro: |
 ## Recent News
 
 - **Jun 2026** — Student organizer for [KAIST @ ICML](https://kaist-icml.github.io/), a satellite event held alongside ICML 2026
+- **Jan–Mar 2026** — Presented weekly paper reviews to [Prof. Hyunwoo Kim](https://hyunw.kim/), covering recent advances in LLM reasoning and reinforcement learning
 
 
 ## Publications
