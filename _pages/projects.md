@@ -67,7 +67,7 @@ Technical review on DeepSeek-R1 and DAPO objectives.
   Review on scaling synthetic data creation with persona-driven prompting and large-scale persona datasets.
   <ul class="paper-sublist">
     <li>Paper 1: Scaling Synthetic Data Creation with 1,000,000,000 Personas</li>
-    <li>Paper 2: Nemotron-Personas-USA</li>
+    <li>Dataset: Nemotron-Personas-USA</li>
   </ul>
 </li>
 
