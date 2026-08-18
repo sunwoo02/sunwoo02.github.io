@@ -8,9 +8,9 @@ This repository is a GitHub Pages–ready Jekyll site using an al-folio–style 
 3. Open `http://localhost:4000`
 
 ## Deploy on GitHub Pages
-1. Create a repository named `sunwoo02.github.io` on GitHub.
+1. Create a repository named `sunwoo-bae.github.io` on GitHub.
 2. Push this repository to the default branch (typically `main`).
-3. In GitHub Pages settings, select the default branch as the source (root). The site will build automatically at `https://sunwoo02.github.io/`.
+3. In GitHub Pages settings, select the default branch as the source (root). The site will build automatically at `https://sunwoo-bae.github.io/`.
 
 ## Edit content
 - Home: `/Users/sunwoobae/Documents/New project/index.md`
