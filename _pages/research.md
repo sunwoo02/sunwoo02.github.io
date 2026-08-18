@@ -4,7 +4,7 @@ permalink: /research/
 ---
 
 ## interests
-- Memory in long-horizon interactions
-- World modeling, planning, and learning mechanisms for persistent and adaptive reasoning
-- Social world modeling: human beliefs, intentions, social context, and interaction dynamics
-- Connecting social and physical world models for reliable reasoning
+- Agent memory and long-horizon reasoning
+- Reinforcement learning and post-training methods for language model reasoning and adaptability
+- World modeling: predictive representations of the environment for planning and decision-making
+- Social world modeling, and connecting social and physical world models for robust decision-making

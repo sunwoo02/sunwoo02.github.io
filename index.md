@@ -7,9 +7,9 @@ location: Seoul, Korea
 intro: |
   I am an undergraduate student at KAIST, currently interning at the [COCO Lab](https://coco-kaist.github.io/) under the supervision of [Hyunwoo Kim](https://hyunw.kim/).
 
-  My research focuses on understanding how intelligent systems learn from experience, build internal representations of the world, and use them for reasoning and decision-making. My current work studies memory in long-horizon interactions, with broader interests in world modeling, planning, and learning mechanisms that support persistent and adaptive reasoning.
+  My research focuses on understanding how intelligent systems learn from experience and use accumulated information for reasoning, planning, and decision-making. My current work investigates agent memory and long-horizon reasoning, while I am also interested in reinforcement learning and post-training methods for improving the reasoning and adaptive capabilities of language models.
 
-  I am particularly interested in social world modeling: how models can represent and reason about human beliefs, intentions, social context, and interaction dynamics. More broadly, I am interested in connecting social and physical world models to develop systems that can reason reliably about both people and their environments.
+  These interests naturally lead me to world modeling: how an intelligent system can form predictive representations of its environment and use them to reason about future outcomes. I am particularly interested in social world modeling—how models can infer and represent human beliefs, intentions, social contexts, and interaction dynamics—and, more broadly, in how social and physical world models can support robust decision-making in complex environments.
 ---
 
 ## Recent News
