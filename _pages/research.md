@@ -4,7 +4,7 @@ permalink: /research/
 ---
 
 ## interests
-- Reasoning and decision-making in large language models
-- Reinforcement learning and post-training optimization for LLMs
-- Social Intelligence with reasoning
-- Robustness, generalization, and distribution shift in reasoning systems
+- Memory in long-horizon interactions
+- World modeling, planning, and learning mechanisms for persistent and adaptive reasoning
+- Social world modeling: human beliefs, intentions, social context, and interaction dynamics
+- Connecting social and physical world models for reliable reasoning

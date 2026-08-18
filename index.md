@@ -7,9 +7,9 @@ location: Seoul, Korea
 intro: |
   I am an undergraduate student at KAIST, currently interning at the [COCO Lab](https://coco-kaist.github.io/) under the supervision of [Hyunwoo Kim](https://hyunw.kim/).
 
-  My research focuses on understanding and advancing reasoning capabilities in Large Language Models. I investigate how the entire training pipeline-encompassing strategic data synthesis, algorithmic design (specifically Reinforcement Learning), and architectural choices-shapes reasoning behaviors in both pre-training and post-training stages.
-  
-  I am particularly interested in structured reasoning and socially grounded intelligence, aiming to develop models that demonstrate robust generalization and reliable reasoning beyond superficial pattern matching.
+  My research focuses on understanding how intelligent systems learn from experience, build internal representations of the world, and use them for reasoning and decision-making. My current work studies memory in long-horizon interactions, with broader interests in world modeling, planning, and learning mechanisms that support persistent and adaptive reasoning.
+
+  I am particularly interested in social world modeling: how models can represent and reason about human beliefs, intentions, social context, and interaction dynamics. More broadly, I am interested in connecting social and physical world models to develop systems that can reason reliably about both people and their environments.
 ---
 
 ## Recent News
